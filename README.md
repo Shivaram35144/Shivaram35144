@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivaram35144
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning JS,CSS
 - 📫 How to reach me ...shivaramkpk@gmail.com
 
 <!---
