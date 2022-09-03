@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Shivaram35144
-- 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Web Dev
 - 📫 How to reach me ...shivaramkpk@gmail.com
 
